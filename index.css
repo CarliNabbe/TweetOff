@@ -1,0 +1,17 @@
+body {
+    --bs-body-bg: #104566;
+}
+
+#button {
+    opacity: 0;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+#col-2 {
+    border: 2px solid white;
+    padding: 100px;
+}
+
